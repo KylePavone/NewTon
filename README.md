@@ -2,7 +2,7 @@
 SQL tasks:
 
 1.
-    1) Создание таблицы:
+    1)Создание таблицы:
 
         CREATE TABLE cars(
             id SERIAL PRIMARY KEY, 

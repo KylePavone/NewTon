@@ -1,0 +1,16 @@
+body{
+    font-size: 20px;
+}
+
+.white{
+    color: #fff
+}
+
+i{
+    font-style: normal;
+    color: red;
+}
+
+.markered{
+    list-style-type:disc;
+}
